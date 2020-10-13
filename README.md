@@ -1,9 +1,9 @@
-### Hello folks 👋
+### Hello, folks! <img src="https://raw.githubusercontent.com/minitesh/minitesh/main/wave.gif" width="30px">
 My name is Nitesh Phadatare and I'm a Software Developer. I'm from India, living in Pune and currently working at Dell EMC.
 - 🔭 I’m currently working on AngularJS+Preact
 - 🌱 I’m currently learning React
 - 💬 Ask me about JavaScript, TypeScript, HTML, CSS, VueJS
-- 📫 How to reach me: [![Twitter][1.2]][1], [![LinkedIn][3.2]][3].
+- 📫 How to reach me: [![Twitter][1.2]][1], [![LinkedIn][3.2]][3]
 
 <!--
 <a href="https://github.com/minitesh/minitesh">
