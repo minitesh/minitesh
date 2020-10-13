@@ -5,11 +5,13 @@ My name is Nitesh Phadatare and I'm a Software Developer. I'm from India, living
 - 💬 Ask me about JavaScript, TypeScript, HTML, CSS, VueJS
 - 📫 How to reach me: [![Twitter][1.2]][1], [![LinkedIn][3.2]][3].
 
+<!--
 <a href="https://github.com/minitesh/minitesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minitesh&theme=merko"/>
 </a>
+-->
 <a href="https://github.com/minitesh/minitesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minitesh&show_icons=true&count_private=true&theme=merko" alt="Nitesh's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minitesh&show_icons=true&count_private=true&theme=merko" alt="Github Stats" />
 </a>
 <!--
 **minitesh/minitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
