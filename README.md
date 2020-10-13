@@ -6,10 +6,10 @@ My name is Nitesh Phadatare and I'm a Software Developer. I'm from India, living
 - 📫 How to reach me: [![Twitter][1.2]][1], [![LinkedIn][3.2]][3].
 
 <a href="https://github.com/minitesh/minitesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minitesh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minitesh&theme=merko"/>
 </a>
 <a href="https://github.com/minitesh/minitesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minitesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nitesh's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minitesh&show_icons=true&count_private=true&theme=merko" alt="Nitesh's GitHub Stats" />
 </a>
 <!--
 **minitesh/minitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
