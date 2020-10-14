@@ -10,9 +10,10 @@ My name is Nitesh Phadatare and I'm a Software Developer. I'm from India, living
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minitesh&theme=merko"/>
 </a>
 -->
-<a href="https://github.com/minitesh/minitesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minitesh&show_icons=true&count_private=true&theme=merko" alt="Github Stats" />
-</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=minitesh&show_icons=true&count_private=true&theme=merko&hide=stars)
+<!--<a href="https://github.com/minitesh/minitesh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minitesh&show_icons=true&count_private=true&theme=merko&hide=stars" alt="Github Stats" />
+</a>-->
 <!--
 **minitesh/minitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
