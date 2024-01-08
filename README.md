@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/minitesh/minitesh/main/wave.gif" width="30px">
-My name is Nitesh Phadatare and I'm a Software Developer. I'm from India, living in Pune and currently working at Dell Technologies.
+My name is Nitesh Phadatare and I'm a Software Developer. 
+I'm from India, living in Pune and currently working at Dell Technologies.
 - 🔭 I’m currently working on AngularJS+Preact
 - 🌱 I’m currently learning React
 - 💬 Ask me about JavaScript, TypeScript, HTML, CSS
